@@ -15,7 +15,5 @@
 
 ## Built With
 
-This project is build with:
-
 - HTML
 - CSS
